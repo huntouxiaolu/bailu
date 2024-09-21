@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/News",
+    "pages/Videos",
+    "pages/Focus",
+    "pages/Mine",
+    "pages/ImoortantNews",
+    "pages/HotQuestion",
+    "pages/FuZhou",
+    "pages/International",
+    "pages/Play"
+  ]
+}
